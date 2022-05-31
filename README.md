@@ -14,7 +14,7 @@ A website providing:
 https://boywondr84.github.io/Horiseon-Code-Refactor/
 
 ## Screenshot
-<img src="./images/screenshot-nimbusweb.me-2022.05.31-12_43_23.jpg">
+<img src="https://github.com/Boywondr84/Horiseon-Code-Refactor/blob/90e68cea3eba8d1f0a005039118479663a7dd8b4/assets/images/screenshot-nimbusweb.me-2022.05.31-12_43_23.jpg"
 
 ## Contribution
 Ryan Kahlbaugh
